@@ -11,7 +11,7 @@
 
 <p align="">
   <a href="http://wiki.chenshanb3.com"><img 
-   src="https://img.shields.io/badge/官方网站-wiki.chenshanb3.com-brightgreen?logo=Google Chrome" 
+   src="https://img.shields.io/badge/官方网站-wiki.chenshanb3.com-green?logo=Google Chrome" 
    alt="Website" /></a>
   <a href="https://github.com/chenshanb3/markdown/issues"><img
     src="https://img.shields.io/bitbucket/issues/chanshanb3/markdown"
