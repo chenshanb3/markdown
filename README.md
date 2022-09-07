@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <strong>
-    运维故障检索库
+    运维知识库
   </strong>
 </p>
 
