@@ -14,7 +14,7 @@
    src="https://img.shields.io/badge/官方网站-wiki.chenshanb3.com-blueviolet?logo=Google Chrome" 
    alt="Website" /></a>
   <a href="https://github.com/chenshanb3/markdown/issues"><img
-    src="https://img.shields.io/bitbucket/issues/chanshanb3/markdown"
+    src="https://img.shields.io/github/issues/chenshanb3/markdown"
     alt="Issues"
   /></a>
   <a href="https://github.com/chenshanb3/markdown/blob/main/LICENSE"><img
