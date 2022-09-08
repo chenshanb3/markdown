@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src=".github/assets/logo.svg" width="240" alt="Material for MkDocs">
+    <img src="assets/logo.svg" width="240" alt="Material for MkDocs">
   </a>
 </p>
 <p align="center">
